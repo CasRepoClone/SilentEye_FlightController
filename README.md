@@ -1,9 +1,9 @@
 ﻿# SilentEye_FlightController
-> I hate writing readme's but I feel this one might be important
-> LANGUAGE: C
+> I hate writing readme's but I feel this one might be important.
 
 ## OS
 - Setup is configured for windows 10 using ST provided middlware
+- Language is C
 
 ## Server
 - st-link-gdb-server for debugging
@@ -22,3 +22,4 @@ Install and add to PATH the following applications
 
 ## Codebase
 - Main function is found in Core/Src/main.c
+
