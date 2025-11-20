@@ -13,7 +13,7 @@
 - STM32F767ZI MCU
 - MICRO-USB (CONNECTOR)
 
-## First time setup
+# First time setup
 Install and add to PATH the following applications
 - STM32CubeCLT_1.15.0 (%appdata%/Local/Programs/STM32CubeMX/STM32...)
 - STM32CubeMX.exe (C://Program Files/STMicroelectronics/STMCUFinder)
@@ -22,4 +22,5 @@ Install and add to PATH the following applications
 
 ## Codebase
 - Main function is found in Core/Src/main.c
+
 
